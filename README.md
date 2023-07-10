@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Loki</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+<img align="right" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokis1107" alt="lokis1107" /></a> </p>
 
 - 🌱 I’m currently learning **React, React Native, Note Js**
